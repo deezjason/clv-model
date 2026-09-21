@@ -1,0 +1,17 @@
+# Core data handling
+pandas
+numpy
+
+# Machine learning - clustering + regression + evaluation
+scikit-learn
+
+# Gradient boosting (optional, for CLV regression)
+xgboost
+
+# Visualization for segmentation charts
+matplotlib
+seaborn
+
+# Jupyter notebooks for exploration
+jupyter
+notebook
